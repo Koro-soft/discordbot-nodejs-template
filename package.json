@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Koro-soft/discordbot-nodejs-template/issues"
   },
-  "homepage": "https://github.com/Koro-soft/discordbot-nodejs-template#readme"
+  "homepage": "https://github.com/Koro-soft/discordbot-nodejs-template#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
 }
